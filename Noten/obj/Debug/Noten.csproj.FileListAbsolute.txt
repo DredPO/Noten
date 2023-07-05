@@ -1,0 +1,11 @@
+D:\Noten\Noten\bin\Debug\Noten.exe.config
+D:\Noten\Noten\bin\Debug\Noten.exe
+D:\Noten\Noten\bin\Debug\Noten.pdb
+D:\Noten\Noten\obj\Debug\Noten.csproj.AssemblyReference.cache
+D:\Noten\Noten\obj\Debug\Noten.csproj.SuggestedBindingRedirects.cache
+D:\Noten\Noten\obj\Debug\Noten.Properties.Resources.resources
+D:\Noten\Noten\obj\Debug\Noten.csproj.GenerateResource.cache
+D:\Noten\Noten\obj\Debug\Noten.csproj.CoreCompileInputs.cache
+D:\Noten\Noten\obj\Debug\Noten.exe
+D:\Noten\Noten\obj\Debug\Noten.pdb
+D:\Noten\Noten\obj\Debug\Noten.Form1.resources
